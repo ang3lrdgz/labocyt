@@ -90,6 +90,7 @@ body {
 
 .header-logo {
   margin-bottom: 2rem;
+  text-align: center;
 }
 
 .header-logo img {
@@ -98,8 +99,7 @@ body {
   max-height: 250px;
   object-fit: contain;
   display: block;
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-sm);
+  margin: 0 auto;
 }
 
 .header-center {
